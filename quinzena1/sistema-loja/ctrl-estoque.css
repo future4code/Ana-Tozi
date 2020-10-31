@@ -1,0 +1,41 @@
+.header {
+  background-color: #5b058a;
+  padding: 20px;
+  text-align: center;
+  font-size: xx-large;
+  color:  #f9626c;
+  font-family: "FreeMono", monospace;
+}
+
+
+
+.footer {
+  background-color: #5B2A86;
+  text-align: center;
+  padding: 10px;
+  font-size: large;
+  font-family: "FreeMono", monospace;
+}
+
+  a{
+    float: center;
+    display: inline-block;
+    background-color:#9d4edd;
+    padding: 40px;
+    margin-left: 30px;
+    font-size: 23px;;
+    color:#ff9e00;
+    text-align: center;
+    border-color: salmon;
+    font-family: "FreeMono", monospace;
+}
+
+img{
+    width: 100px;
+    height: 5%;
+    float: center;
+}
+
+table{
+  float: center;
+}
