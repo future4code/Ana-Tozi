@@ -1,0 +1,81 @@
+body {background-color: powderblue;}
+
+header {
+    background-color:#009999;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 10px;
+    background-color:#009999;
+    
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  
+
+  article {
+   
+    background-color: #f1f1f1;
+    padding: 10px;
+    color:black
+  }
+
+  article h1{
+font-size: large;
+background-color: #009999
+  }
+
+article p{
+    font-size:medium
+    background-color: #009999
+}
+
+
+
+ 
+
+  
+
+
+projetos p{
+    font-size: large;
+    background-color: #009999;
+    
+}
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color:#009999;
+    color: white;
+  }
+
+
+
+  img li{
+    float: inline-end;
+   
+  }
+
+
+
+
+
+
+

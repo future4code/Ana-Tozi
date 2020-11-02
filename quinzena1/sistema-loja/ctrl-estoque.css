@@ -30,12 +30,12 @@
     font-family: "FreeMono", monospace;
 }
 
-img{
-    width: 100px;
-    height: 5%;
-    float: center;
+
+
+.itens{
+  width: 300px;
+  height: 200px;
+  float: center;
+  font-size: xx-large;
 }
 
-table{
-  float: center;
-}

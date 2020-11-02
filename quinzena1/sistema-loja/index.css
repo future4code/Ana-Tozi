@@ -1,17 +1,17 @@
 .header {
-    background-color: #5b058a;
+    background-color: #b86bd1;
     padding: 20px;
     text-align: center;
     font-size: xx-large;
-    color:  #f9626c;
+    color:  #bb2d11;
     font-family: "FreeMono", monospace;
   }
 
 
 h3{
-    color: #f72634 ;
+    color:#75005c ;
     text-align: center;
-    background-color: #f9626c;
+    background-color: #bb2d11;
     font-size: xx-large;
     display: inline-flexbox;
     padding: 50px;
@@ -28,9 +28,9 @@ a{
     padding: 40px;
     margin-left: 30px;
     font-size: 23px;;
-    color:#ff9e00;
+    color: #75005c;
     text-align: center;
-    border-color: salmon;
+    border-color:#bb2d11;
     font-family: "FreeMono", monospace;
 }
 
