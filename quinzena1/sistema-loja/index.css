@@ -1,0 +1,49 @@
+.header {
+    background-color: #b86bd1;
+    padding: 20px;
+    text-align: center;
+    font-size: xx-large;
+    color:  #bb2d11;
+    font-family: "FreeMono", monospace;
+  }
+
+
+h3{
+    color:#75005c ;
+    text-align: center;
+    background-color: #bb2d11;
+    font-size: xx-large;
+    display: inline-flexbox;
+    padding: 50px;
+    font-family: "FreeMono", monospace;
+
+}
+
+
+
+a{
+    float: center;
+    display: inline-block;
+    background-color:#9d4edd;
+    padding: 40px;
+    margin-left: 30px;
+    font-size: 23px;;
+    color: #75005c;
+    text-align: center;
+    border-color:#bb2d11;
+    font-family: "FreeMono", monospace;
+}
+
+img{
+    width: 80px;
+    height: 5%;
+    float: center;
+}
+
+.footer {
+    background-color: #5B2A86;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+    font-family: "FreeMono", monospace;
+  }
