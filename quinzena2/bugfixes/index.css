@@ -7,7 +7,10 @@
 * {
     margin: 0;
     padding: 0;
+}#back-button{
+    text-align: center;
 }
+
 
 h2 {
     background-color: #fe7e02;
@@ -119,25 +122,36 @@ td button {
     color: black;
 }
 
+td button:hover{
+    background-color: #c44f00;
+}
+
+td button:active{
+    background-color: blueviolet;
+}
+
 .container-do-search {
     margin-top: 20px;
     height: 100px;
-    
+
 }
 
 
 #back-button {
     background-color: white;
-    width: 100px;
+    width: 80px;
     height: 20px;
     border: 1px solid black;
     border-radius: 5px;
-    font-size: 10px;
-    color: black;
-}
+    font-size: 10px;  
+    text-align: center;
+} 
+
+
 
 #back-button:hover {
-    background-color: #635a3d
+    background-color: #c44f00;
+    
 }
 
 img{
