@@ -7,8 +7,10 @@
 * {
     margin: 0;
     padding: 0;
-}#back-button{
-    text-align: center;
+    font-family: "Roboto";
+    font-size: 22px;
+    margin: auto;
+    
 }
 
 
@@ -54,13 +56,15 @@ div img {
     background-color: #c44f00;
     
 }
+#back-button{
+    text-align: center;
+}
 
 .container {
     height: 500px;
     
 }
  
-
 
 .icone {
     height: 15px;
@@ -108,15 +112,21 @@ div:last-child {
     text-align: center;
 }
 
+
+.tabela{
+    text-align: center;
+
+}
+
 table {
-    width: 60%;
     margin: auto;
+    width: 70%;
     
 }
 
 td button {
     background-color: #fadf63;
-    width: 150px;
+    width: 100px;
     height: 30px;
     border-radius: 5px;
     color: black;
@@ -127,31 +137,28 @@ td button:hover{
 }
 
 td button:active{
-    background-color: blueviolet;
+    background-color: white;
 }
 
 .container-do-search {
     margin-top: 20px;
     height: 100px;
-
 }
 
 
 #back-button {
     background-color: white;
-    width: 80px;
+    width: 100px;
     height: 20px;
     border: 1px solid black;
     border-radius: 5px;
-    font-size: 10px;  
-    text-align: center;
-} 
-
-
+    font-size: 10px;
+    color: black;
+    display: block;
+}
 
 #back-button:hover {
-    background-color: #c44f00;
-    
+    background-color: #635a3d
 }
 
 img{
